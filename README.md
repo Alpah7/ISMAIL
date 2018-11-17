@@ -1,7 +1,8 @@
 
 ***
-SCRIPT : ISMAIL
-   JOB : Verify Email Address Checker
+**SCRIPT** : ISMAIL
+
+   **JOB** : Verify Email Address Checker
 ***
 
 # Install:
