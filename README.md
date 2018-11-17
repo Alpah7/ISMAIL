@@ -11,7 +11,7 @@ SCRIPT : ISMAIL
 
 # Usage:
 
-  - Scrtit Options
+  - SCRIPT OPTIONS
  ```
   USAGE: ./python ismail.py [OPTIONS...]
 -------------
