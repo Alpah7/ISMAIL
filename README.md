@@ -14,7 +14,7 @@
 
   - SCRIPT OPTIONS
  ```
-  USAGE: ./python ismail.py [OPTIONS...]
+  USAGE: python ./ismail.py [OPTIONS...]
 -------------
 OPTIONS:
        |
